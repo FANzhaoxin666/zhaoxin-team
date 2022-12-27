@@ -4,32 +4,9 @@ title: Home
 
 # CMU Zhaoxin Team（杰森组）
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+Zhaoxin team is a research team consists of students and engineers from CMU, HKUST, Pyche.AI, etc. The director of Zhaoxin team is Jason Fan, who is now a scholar at Carnegie Mellon University. Our reseach interesting include digital human, medical image processing, and augmented reality. Our goal is to build a metaverse to brige the gap between virtual and real.
 
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
-{:.center}
 
-{% include section.html full=true %}
-
-{% include banner.html image="images/banner.jpg" %}
-
-{% include section.html %}
 
 # Highlights
 
