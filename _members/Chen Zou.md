@@ -1,6 +1,6 @@
 ---
 name: Chen Zou
-image: images/member.jpg
+image: images/zouchen.png
 description: algorithm researcher
 role: phd
 aliases:
