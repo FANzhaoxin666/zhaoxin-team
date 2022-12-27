@@ -1,6 +1,6 @@
 ---
 name: Hui Ji
-image: images/jihui.jpg
+image: images/jihui.png
 description: algorithm developer
 role: bachelor
 aliases:
