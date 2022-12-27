@@ -4,7 +4,7 @@ title: Home
 
 # CMU Zhaoxin Team（杰森组）
 
-Zhaoxin team is a research team consists of students and engineers from CMU, HKUST, Pyche.AI, etc. The director of Zhaoxin team is Jason Fan, who is now a scholar at Carnegie Mellon University. Our reseach interesting include digital human, medical image processing, and augmented reality. Our goal is to build a metaverse to brige the gap between virtual and real.
+Zhaoxin team is a research team consists of students and engineers from CMU, HKUST, Pyche.AI, etc. The director of Zhaoxin team is Jason Fan, who is now a scholar at Carnegie Mellon University. Our reseach interests include digital human, medical image processing, and augmented reality. Our goal is to build a metaverse to brige the gap between virtual and real.
 
 
 
