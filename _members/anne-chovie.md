@@ -1,17 +1,17 @@
 ---
-name: Anne Chovie
-image: images/member.jpg
-description: Bark Ops Engineer
-role: programmer
+name: Longbin Ji
+image: images/longbin.png
+description: undergraduate student in XJTLU
+role: developer
 aliases:
   - A. Chovie
   - A Chovie
 links:
-  home-page: annechovie.com
-  email: anne@chovie.com
-  github: anne-chovie
+  home-page: 
+  email: robingg1100@gmail.com
+  github: robingg1
 ---
 
-Anne is a good dog.
-She studied at the University of Good Dogs.
-She likes pets, walkies, and treats.
+Longbin.ji is currently an algorithm developer aiming at 3D avatar and human reconstruction.
+He studies at Xi'an Jiaotong Liverpool University.
+
