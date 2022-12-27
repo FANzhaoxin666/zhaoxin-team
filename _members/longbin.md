@@ -1,8 +1,8 @@
 ---
 name: Longbin Ji
 image: images/longbin.png
-description: undergraduate student in XJTLU
-role: developer
+description: algorithm developer
+role: bachelor
 aliases:
   - A. Chovie
   - A Chovie
