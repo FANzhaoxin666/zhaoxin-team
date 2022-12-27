@@ -1,7 +1,7 @@
 ---
 name: Zhenbo Song
 image: images/zhenbosong.png
-description: Director
+description: director
 role: Posdoc
 aliases:
   - Z.song
