@@ -1,6 +1,6 @@
 ---
 name: Manyu Li
-image: images/manyu.png
+image: images/manyuli.png
 description: algorithm developer
 role: bachelor
 aliases:
