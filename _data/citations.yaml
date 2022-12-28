@@ -17,10 +17,10 @@
   link: https://doi.org/grj39x
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
   extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
+  - type: source
+    link: https://arxiv.org/abs/2204.01586
   tags: ECCV-2022, 6D pose estimation -
-  _cache: a492fdda399ebb58f3e5993860a655cb2c7ec11127385e273af8db0ed379d33a
+  _cache: 9331afe534cac005e782c22d46cc4db7f2389e99c43cb22e67140b1f3a171f6b
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
