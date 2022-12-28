@@ -1,8 +1,8 @@
 ---
 name: Changjie Lu
 image: images/luchangjie.png
-description: algorithm developer
-role: bachelor
+description: undergraduate in WKU
+role: algorithm developer
 aliases:
   - C.Lu
 links:
