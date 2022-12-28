@@ -51,7 +51,7 @@ We all have great passion and confidence to change the world with our hands.
 #### Research Intern/ Algorithm Developer
 
 To join in our team, please contact Zhaoxin.Fan via following email:
-- fanzhaoxin666@gmail.com
+- fanzhaoxinruc@gmail.com
 - zhaoxinf@andrew.cmu.edu
 
 {% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
@@ -63,3 +63,6 @@ To join in our team, please contact Zhaoxin.Fan via following email:
 Coming soon ...
 {:.center}
 
+## Alumnus
+- Zixiao Xing: CMU master, now in PetroChina
+- Bowen Wei: now in The University of Virginia
