@@ -46,7 +46,7 @@ Coming soon ...
 
 {%
   include feature.html
-  image="images/tools.png"
+  image="images/photo.jpg"
   link="resources"
   title="Our Resources"
   flip=true
@@ -68,7 +68,7 @@ Our team members are all top students from top universities worldwide aimed at d
 
 {%
   include feature.html
-  image="images/team.jpg"
+  image="images/team.png"
   link="team"
   title="Our Team"
   text=text
