@@ -1,6 +1,6 @@
 ---
 name: Pang Wang
-image: images/wangpan.png
+image: images/wangpgn.png
 description: Phd in Pitt
 role: algorithm developer
 aliases:
