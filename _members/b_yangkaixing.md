@@ -1,6 +1,6 @@
 ---
 name: Kaixing Yang
-image: images/yangkaixin.png
+image: images/yangkaixing.png
 description: Phd in RUC
 role: algorithm developer
 aliases:
