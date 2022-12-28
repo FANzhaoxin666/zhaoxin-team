@@ -1,8 +1,8 @@
 ---
 name: Siyi Du
 image: images/dushiyi.png
-description: algorithm developer
-role: bachelor
+description: undergraduate in SCU
+role: algorithm developer
 aliases:
   - S.Du
 links:
