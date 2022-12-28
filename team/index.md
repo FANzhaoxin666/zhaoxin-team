@@ -7,8 +7,8 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-Our team members are all top students from Top and famous universities worldwide aimed at digital human and medicial analysis field. 
-This team is led by Zhaoxin.Fan and Zhengbo.Song. 
+Our team members are all top students from top and famous universities worldwide aimed at digital human and medicial analysis field. 
+This team is led by Zhaoxin.Fan and Zhenbo.Song to explore the state-of-art technology in medicial analysis, 3D reconstruction, avatar, image denosing and so on. 
 We all have the confidence to use our power and technology to change the world as a solid team.
 
 {% include section.html %}
@@ -41,20 +41,18 @@ We all have the confidence to use our power and technology to change the world a
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+This is the information of all current members from different background in Zhaoxin team.
+We all have great passion and confidence to change the world with our hands.
 
 {% include section.html %}
 
 ## Join
 
-#### Post Dogtoral Researcher
+#### Research Intern/ Algorithm Developer
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- 3+ (dog) years experience managing bone portfolios
-- Strong desire to learn tricks and go on walkies
-- Aptitude to sit and stay
+To join in our team, please contact Zhaoxin.Fan via following email:
+- fanzhaoxin666@gmail.com
+- zhaoxinf@andrew.cmu.edu
 
 {% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
 {:.center}
@@ -62,35 +60,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {% include section.html %}
 
 ## Funding
-
-Our work is made possible by funding from several organizations.
+Coming soon ...
 {:.center}
 
-{%
-  include gallery.html
-  style="square"
-
-  image1="images/photo.jpg"
-  link1="https://nasa.gov/"
-  tooltip1="Cool Foundation"
-
-  image2="images/photo.jpg"
-  link2="https://nasa.gov/"
-  tooltip2="Cool Institute"
-
-  image3="images/photo.jpg"
-  link3="https://nasa.gov/"
-  tooltip3="Cool Initiative"
-
-  image4="images/photo.jpg"
-  link4="https://nasa.gov/"
-  tooltip4="Cool Foundation"
-
-  image5="images/photo.jpg"
-  link5="https://nasa.gov/"
-  tooltip5="Cool Institute"
-
-  image6="images/photo.jpg"
-  link6="https://nasa.gov/"
-  tooltip6="Cool Initiative"
-%}
