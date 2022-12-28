@@ -1,21 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.48550/arXiv.2204.01586
+  title: Object Level Depth Reconstruction for Category Level 6D Object Pose Estimation
+    From Monocular RGB Image
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
+  - Zhaoxin Fan
+  - Zhenbo Song
+  - Jian Xu
+  - Zhicheng Wang
+  - Kejian Wu
+  - Hongyan Liu
+  - Jun He
+  publisher: arXiv
+  date: ''
+  link: https://doi.org/grj39x
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
   extra-links:
   - type: manubot
     link: https://greenelab.github.io/knowledge-graph-review/
-  tags:
-  - knowledge graphs
-  _cache: 2b8aa76c98be2f26481ab15dc135eb446fa9ef6f94af175c9639d1a45d538cf4
+  tags: ECCV-2022, 6D pose estimation -
+  _cache: a492fdda399ebb58f3e5993860a655cb2c7ec11127385e273af8db0ed379d33a
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
