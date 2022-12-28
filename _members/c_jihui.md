@@ -1,8 +1,8 @@
 ---
 name: Hui Ji
 image: images/jihui.png
-description: algorithm developer
-role: bachelor
+description: undergraduate in HUST
+role: algorithm developer
 aliases:
   - H. Ji
 links:
