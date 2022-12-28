@@ -2,7 +2,7 @@
 name: Xinyang Han
 image: images/hanxinyang.png
 description: undergraduate in UCAS
-role: director
+role: algorithm developer
 aliases:
   - X.Han
 links:
