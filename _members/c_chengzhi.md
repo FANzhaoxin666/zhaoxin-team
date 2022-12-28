@@ -1,8 +1,8 @@
 ---
 name: Chengzhi Cao
 image: images/chengzhi cao.png
-description: algorithm developer
-role: master in USTC
+description: master in USTC
+role: algorithm developer
 aliases:
   - C.Cao
 links:
