@@ -21,29 +21,27 @@
     link: https://arxiv.org/abs/2204.01586
   tags: ECCV-2022, 6D pose estimation -
   _cache: 9331afe534cac005e782c22d46cc4db7f2389e99c43cb22e67140b1f3a171f6b
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1109/ICIP46576.2022.9897919
+  title: Unsupervised Multi-Task Learning for 3D Subtomogram Image Alignment, Clustering
+    and Segmentation
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
+  - Haoyi Zhu
+  - Chuting Wang
+  - Yuanxin Wang
+  - Zhaoxin Fan
+  - Mostofa Rafid Uddin
+  - Xin Gao
+  - Jing Zhang
+  - Xiangrui Zeng
+  - Min Xu
+  publisher: 2022 IEEE International Conference on Image Processing (ICIP)
+  date: '2022-10-16'
+  link: https://doi.org/grj39z
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
   extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
   - type: source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  _cache: 189b56e366896b6a90ae8d64fc4e605797d2bdd07674653d81ae533b2f1e4672
+    link: https://ieeexplore.ieee.org/abstract/document/9897919
+  _cache: beeed8bfb1ba86ae8d759e4d31e4c060aedfb1e9adb56d5bd9f8464e8eae3b6e
 - id: doi:10.7554/eLife.32822
   title: Sci-Hub provides access to nearly all scholarly literature
   authors:
