@@ -1,6 +1,6 @@
 ---
 name: Zhaoxin Fan
-image: images/fanzhaoxin.png
+image: images/fanzhaoxin.jpg
 description: Scholar in CMU
 role: director
 aliases:
