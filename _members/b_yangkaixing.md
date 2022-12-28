@@ -11,5 +11,5 @@ links:
   github: 
 ---
 
-Zhaoxin.Fan is currently the director of Zhaoxin team.
-He works as scholar at Carnegie Mellon University.
+Kaixing.Tang is currently an algorithm developer of Zhaoxin team.
+He studies his Phd degree at Renmin University of China.
