@@ -1,7 +1,7 @@
 ---
 name: Xiaoyu Cao
 image: images/xiaoyucao.png
-description: algorithm developer
+description: undergraduate in NUC
 role: algorithm developer
 aliases:
   - X.Cao
