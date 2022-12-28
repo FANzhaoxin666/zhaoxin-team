@@ -1,8 +1,8 @@
 ---
 name: Yaopei Zeng
 image: images/zneg yaopei.png
-description: algorithm developer
-role: bachelor
+description: undergraduate in HUST
+role: algorithm developer
 aliases:
   - C.Lu
 links:
