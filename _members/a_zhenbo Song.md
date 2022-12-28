@@ -1,7 +1,7 @@
 ---
 name: Zhenbo Song
 image: images/zhenbosong.png
-description: Posdoc in NUST
+description: Postdoc in NUST
 role: director
 aliases:
   - Z.song
