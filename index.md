@@ -11,8 +11,7 @@ Zhaoxin team is a research team consists of students and engineers from CMU, HKU
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our research mainly aims at exploring state-of-art method for 3D avatar, medicial image analysis and augmented reality. We have obtained great achievement by publishing papers at top conferences and creating high quality ML system in real industry.
 
 {%
   include link.html
@@ -26,7 +25,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.png"
   link="research"
   title="Our Research"
   text=text
@@ -48,7 +47,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/tools.png"
   link="resources"
   title="Our Resources"
   flip=true
@@ -56,7 +55,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our team members are all top students from top universities worldwide aimed at digital human and medicial analysis field led by Zhaoxin.Fan and Zhenbo.Song. We all have the confidence to use our power and technology to change the world as a solid team.
 
 {%
   include link.html
@@ -70,7 +69,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.jpg"
   link="team"
   title="Our Team"
   text=text
