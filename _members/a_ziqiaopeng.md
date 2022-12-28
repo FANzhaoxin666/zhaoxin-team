@@ -1,8 +1,8 @@
 ---
 name: Ziqiao Peng
 image: images/ziqiaopeng.png
-description: algorithm developer
-role: Phd
+description: Phd in RUC
+role: algorithm developer
 aliases:
   - Z.Peng
 links:
