@@ -1,6 +1,6 @@
 ---
 name: Hao Xu
-image: images/yuhao.jpg
+image: images/haoyu.jpg
 description: Phd in HKUST
 role: director
 aliases:
