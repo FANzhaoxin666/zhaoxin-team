@@ -2,8 +2,8 @@
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
   date: 2022-08-28
   extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/knowledge-graph-review/
+    - type: source
+      link: https://arxiv.org/abs/2204.01586
   tags: ECCV-2022, 6D pose estimation
     - 
 
