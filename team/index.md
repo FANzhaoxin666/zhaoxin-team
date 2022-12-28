@@ -1,16 +1,15 @@
 ---
 title: Team
 nav:
-  order: 16
+  order: 20
   tooltip: About our team
 ---
 
 # <i class="fas fa-users"></i>Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Our team members are all top students from Top and famous universities worldwide aimed at digital human and medicial analysis field. 
+This team is led by Zhaoxin.Fan and Zhengbo.Song. 
+We all have the confidence to use our power and technology to change the world as a solid team.
 
 {% include section.html %}
 
@@ -18,7 +17,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   include list.html
   data="members"
   component="portrait"
-  filters="role: Posdoc"
+  filters="role: director"
 %}
 {%
   include list.html
