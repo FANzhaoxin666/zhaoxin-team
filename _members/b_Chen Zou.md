@@ -1,8 +1,8 @@
 ---
 name: Chen Zou
 image: images/zouchen.png
-description: algorithm researcher
-role: phd
+description: Phd in BUPT
+role: algorithm developer
 aliases:
   - C. Zou
   - C.Zou
