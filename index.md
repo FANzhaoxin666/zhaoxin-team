@@ -32,8 +32,7 @@ Our research mainly aims at exploring state-of-art method for 3D avatar, medicia
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Coming soon ...
 
 {%
   include link.html
