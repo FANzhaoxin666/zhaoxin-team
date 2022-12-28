@@ -1,8 +1,8 @@
 ---
 name: Xukun Zhou
 image: images/zhou xukun.png
-description: algorithm developer
-role: Phd
+description: Phd in RUC
+role: algorithm developer
 aliases:
   - X.Zhou
 links:
