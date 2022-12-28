@@ -1,8 +1,8 @@
 ---
 name: Manyu Li
 image: images/manyuli.png
-description: algorithm developer
-role: bachelor
+description: undergraduate in NCU
+role: algorithm developer
 aliases:
   - M.Li
 links:
