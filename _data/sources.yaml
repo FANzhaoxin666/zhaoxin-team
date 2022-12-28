@@ -7,16 +7,11 @@
   tags: ECCV-2022, 6D pose estimation
     - 
 
-- id: doi:10.1371/journal.pcbi.1007128
+- id: doi:10.1109/ICIP46576.2022.9897919
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
   extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
     - type: source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+      link: https://ieeexplore.ieee.org/abstract/document/9897919
 
 - id: doi:10.7554/eLife.32822
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
