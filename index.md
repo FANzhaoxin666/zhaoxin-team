@@ -74,5 +74,4 @@ Our team members are all top students from top universities worldwide aimed at d
   text=text
 %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our team believe our power and ambition to use technology in 3D reconstruction and medicial field to change the world. If you are working in the same direction and want some improvements in your careea, We are looking forward you to contact us.
