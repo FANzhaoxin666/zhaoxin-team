@@ -13,7 +13,7 @@
   - Hongyan Liu
   - Jun He
   publisher: arXiv
-  date: ''
+  date: '2022-08-28'
   link: https://doi.org/grj39x
   image: images/OLDR.png
   extra-links:
@@ -53,7 +53,7 @@
   - Jun He
   - Xiaoyong Du
   publisher: arXiv
-  date: ''
+  date: '2021-12-31'
   link: https://doi.org/grj6hv
   image: images/svnet.png
   extra-links:
@@ -109,14 +109,14 @@
   - Jun He
   - Xiaoyong Du
   publisher: arXiv
-  date: '2021-01-01'
+  date: '2022-11-28'
   link: https://doi.org/grj6h2
   image: images/rprnet.png
   extra-links:
   - type: source
     link: https://arxiv.org/abs/2108.12790v2
   tags: Place Recognition, point cloud
-  _cache: ec6950d65f66c8c4179f371aa057cab215b4eb2ea4f368e89e39e1ced3a1991d
+  _cache: a2ca38c38ed16d68ffc08bce2f6b08f008b4ee43654c660d624354e5fc816943
 - id: doi:10.1109/ICTAI50040.2020.00172
   title: 'PointFPN: A Frustum-based Feature Pyramid Network for 3D Object Detection'
   authors:
