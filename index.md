@@ -54,7 +54,7 @@ Coming soon ...
 %}
 
 {% capture text %}
-Our team members are all top students from top universities worldwide aimed at digital human and medicial analysis field led by Zhaoxin.Fan and Zhenbo.Song. We all have the confidence to use our power and technology to change the world as a solid team.
+Our team members are all top students from top universities worldwide, aiming at digital human and medicial analysis field led by Zhaoxin.Fan and Zhenbo.Song. We all have the confidence to use our power and technology to change the world as a solid team.
 
 {%
   include link.html
