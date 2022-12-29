@@ -135,29 +135,115 @@
     link: https://ieeexplore.ieee.org/abstract/document/9288277
   tags: 3D detection
   _cache: 9993e68b676f39c7cbad7f95e95bf6712cd4872b9c3f82bb2b1f619e19939e4a
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1111/cgf.14146
+  title: 'SRNet: A 3D Scene Recognition Network using Static Graph and Dense Semantic
+    Fusion'
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
+  - Zhaoxin Fan
+  - Hongyan Liu
+  - Jun He
+  - Qi Sun
+  - Xiaoyong Du
+  publisher: Computer Graphics Forum
+  date: '2020-10-01'
+  link: https://doi.org/gnfdkg
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   extra-links:
-  - type: preprint
-    link: https://doi.org/10.7287/peerj.preprints.3100v1
-  - type: manubot
-    link: https://greenelab.github.io/scihub-manuscript/
   - type: source
-    link: https://github.com/greenelab/scihub-manuscript
-    text: Manuscript source
+    link: https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14146
+  tags: 3D scene recognition
+  _cache: 9b4fe0e92c5e96ed38d33db89c6bdbc2f26e0c92c61cf8a2267d98df5d5caec5
+- id: doi:10.48550/arXiv.2111.10524
+  title: 'ACR-Pose: Adversarial Canonical Representation Reconstruction Network for
+    Category Level 6D Object Pose Estimation'
+  authors:
+  - Zhaoxin Fan
+  - Zhengbo Song
+  - Jian Xu
+  - Zhicheng Wang
+  - Kejian Wu
+  - Hongyan Liu
+  - Jun He
+  publisher: arXiv
+  date: '2021-01-01'
+  link: https://doi.org/grj6j6
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  extra-links:
   - type: source
-    link: https://github.com/greenelab/scihub
-    text: Analyses source
-  _cache: 483a564e9ddf847e6372cafb31de4673771c3e4da664c0d86a7ea7c38c20318d
+    link: https://arxiv.org/abs/2111.10524
+  tags: Representation Reconstruction, 6D Object Pose Estimation
+  _cache: f96c56af7f026c84ec4dac95e883628f62d5af4aa5d4e0be9822456dd88a1858
+- id: doi:10.48550/arXiv.2204.09186
+  title: Reconstruction-Aware Prior Distillation for Semi-supervised Point Cloud Completion
+  authors:
+  - Zhaoxin Fan
+  - Yulin He
+  - Zhicheng Wang
+  - Kejian Wu
+  - Hongyan Liu
+  - Jun He
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/grj6j7
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  extra-links:
+  - type: source
+    link: https://arxiv.org/abs/2204.09186
+  tags: point cloud
+  _cache: 068a9193b369a0989a5589fc07ff2fb09e30017ae680f5afa880a808630f0275
+- id: doi:10.48550/arXiv.2212.11538
+  title: 'SHLE: Devices Tracking and Depth Filtering for Stereo-based Height Limit
+    Estimation'
+  authors:
+  - Zhaoxin Fan
+  - Kaixing Yang
+  - Min Zhang
+  - Zhenbo Song
+  - Hongyan Liu
+  - Jun He
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/grj6j8
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  extra-links:
+  - type: source
+    link: https://arxiv.org/abs/2212.11538
+  tags: Height Limit Estimation
+  _cache: c096d17aba196bf10ca34aea38ad9dad90af1f6a40c3b60997d0fe2f15c50888
+- id: doi:10.48550/arXiv.2212.00731
+  title: 'FuRPE: Learning Full-body Reconstruction from Part Experts'
+  authors:
+  - Zhaoxin Fan
+  - Yuqing Pan
+  - Hao Xu
+  - Zhenbo Song
+  - Zhicheng Wang
+  - Kejian Wu
+  - Hongyan Liu
+  - Jun He
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/grj6j9
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  extra-links:
+  - type: source
+    link: https://arxiv.org/abs/2212.00731
+  tags: body reconstruction
+  _cache: b6dcd7951251afe0b63cfd71fdb0225ec5d878a62be49538fbb2c2f4efa6ee76
+- id: doi:10.48550/arXiv.2209.11488
+  title: 'GIDP: Learning a Good Initialization and Inducing Descriptor Post-enhancing
+    for Large-scale Place Recognition'
+  authors:
+  - Zhaoxin Fan
+  - Zhenbo Song
+  - Hongyan Liu
+  - Jun He
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/grj6kb
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  extra-links:
+  - type: source
+    link: https://arxiv.org/abs/2209.11488
+  tags: Place Recognition
+  _cache: c950ca5f4b3c0d4dcf3f6a761c9013178cde6d292399fd49cb6f35d0c3a2eecf
