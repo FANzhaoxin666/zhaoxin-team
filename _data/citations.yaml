@@ -37,11 +37,11 @@
   publisher: 2022 IEEE International Conference on Image Processing (ICIP)
   date: '2022-10-16'
   link: https://doi.org/grj39z
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  image: images/banner.jpg
   extra-links:
   - type: source
     link: https://ieeexplore.ieee.org/abstract/document/9897919
-  _cache: beeed8bfb1ba86ae8d759e4d31e4c060aedfb1e9adb56d5bd9f8464e8eae3b6e
+  _cache: d9474cf216b5ff0abaf5d35f3cfababff05e18a4515b2ee508227480413ec270
 - id: doi:10.48550/arXiv.2105.00149
   title: 'SVT-Net: Super Light-Weight Sparse Voxel Transformer for Large Scale Place
     Recognition'
