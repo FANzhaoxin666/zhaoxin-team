@@ -21,7 +21,7 @@
   tags: AAAI 2022, SLAM
   
 - id: doi:10.1145/3524496
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  image: images/acm.png
   extra-links:
     - type: source
       link: https://dl.acm.org/doi/abs/10.1145/3524496
