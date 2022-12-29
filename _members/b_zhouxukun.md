@@ -1,7 +1,7 @@
 ---
 name: Xukun Zhou
 image: images/zhou xukun.png
-description: Phd in RUC
+description: Phd student in RUC
 role: algorithm developer
 aliases:
   - X.Zhou
@@ -12,4 +12,4 @@ links:
 ---
 
 Xukun.Zhou is currently the algorithm developer of Zhaoxin team.
-He studies his Phd degree at RENMIN UNIVERSITY of CHINA.
+He is Phd student at RENMIN UNIVERSITY of CHINA.
