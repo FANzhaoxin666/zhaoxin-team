@@ -300,3 +300,53 @@
     link: https://arxiv.org/abs/2208.09446
   tags: 3D object detection, point cloud
   _cache: 0025eb970af0fd8b000a3633175b709c9c5e86e359cce92629497fc07f6d4413
+- id: doi:10.1007/978-3-030-58586-0_1
+  title: Deep Novel View Synthesis from Colored 3D Point Clouds
+  authors:
+  - Zhenbo Song
+  - Wayne Chen
+  - Dylan Campbell
+  - Hongdong Li
+  publisher: "Computer Vision \u2013 ECCV 2020"
+  date: '2020-01-01'
+  link: https://doi.org/grj7w6
+  image: images/DNVS.png
+  extra-links:
+  - type: source
+    link: https://link.springer.com/chapter/10.1007/978-3-030-58586-0_1
+  tags: point cloud, ECCV 2020
+  _cache: b78037524fefd8b5c3a01b363250392a0646c7651814e9bde486b84ff6e1f415
+- id: doi:10.1109/ICRA40945.2020.9197557
+  title: End-to-end Learning for Inter-Vehicle Distance and Relative Velocity Estimation
+    in ADAS with a Monocular Camera
+  authors:
+  - Zhenbo Song
+  - Jianfeng Lu
+  - Tong Zhang
+  - Hongdong Li
+  publisher: 2020 IEEE International Conference on Robotics and Automation (ICRA)
+  date: '2020-05-01'
+  link: https://doi.org/grj7w7
+  image: images/ELIV.png
+  extra-links:
+  - type: source
+    link: https://ieeexplore.ieee.org/abstract/document/9197557
+  tags: automatic driving
+  _cache: e0772b9bed64665b15639def88956e6018c914b9179c0416223ddba6e93035dc
+- id: doi:10.1109/TITS.2021.3106055
+  title: Self-Supervised Depth Completion From Direct Visual-LiDAR Odometry in Autonomous
+    Driving
+  authors:
+  - Zhenbo Song
+  - Jianfeng Lu
+  - Yazhou Yao
+  - Jian Zhang
+  publisher: IEEE Transactions on Intelligent Transportation Systems
+  date: '2022-08-01'
+  link: https://doi.org/grj7w8
+  image: images/SSDC.png
+  extra-links:
+  - type: source
+    link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9525167
+  tags: automatic driving
+  _cache: 11a8bf449cd6ab29e9909b483ac252b22730bb8a57d3b097bb2249ed919813b6
