@@ -11,4 +11,4 @@ links:
 ---
 
 Hui Ji is an algorithm developer in Zhaoxin team.
-She studies her bachelor degree at HUST in China.
+She is an undergraduate student in HUST in China.
