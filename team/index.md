@@ -54,7 +54,6 @@ To join in our team, please contact Zhaoxin.Fan via following email:
 - fanzhaoxinruc@gmail.com
 - zhaoxinf@andrew.cmu.edu
 
-{% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
 {:.center}
 
 {% include section.html %}
@@ -63,7 +62,7 @@ To join in our team, please contact Zhaoxin.Fan via following email:
 Coming soon ...
 {:.center}
 
-## Alumnus
+## Previous members
 - Zixiao Xing: CMU master, now in PetroChina
 - Bowen Wei: now in The University of Virginia
 - Qianxi Xu: now in Nanyang Technological University
