@@ -12,4 +12,4 @@ links:
 ---
 
 Siyi.Du is currently the algorithm developer of Zhaoxin team.
-She studies her bachelor degree at Sichuan University in China.
+She is an undergraduate student in Sichuan University in China.
