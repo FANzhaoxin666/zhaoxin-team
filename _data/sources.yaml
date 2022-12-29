@@ -106,7 +106,7 @@
   tags: point cloud
   
 - id: doi:10.48550/arXiv.2208.09446
-  image: https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-18913-5?as=webp
+  image: images/minosim.png
   extra-links:
     - type: source
       link: https://arxiv.org/abs/2208.09446
