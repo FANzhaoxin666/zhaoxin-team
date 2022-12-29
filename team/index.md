@@ -66,5 +66,5 @@ Coming soon ...
 ## Alumnus
 - Zixiao Xing: CMU master, now in PetroChina
 - Bowen Wei: now in The University of Virginia
-- Qianxi Xu: now in Nanyang Technological University (bachelor)
+- Qianxi Xu: now in Nanyang Technological University
 - Jiayin Sun: now in Shanghai Jiaotong University
