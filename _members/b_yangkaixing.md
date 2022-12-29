@@ -1,7 +1,7 @@
 ---
 name: Kaixing Yang
 image: images/yangkaixing.png
-description: Phd in RUC
+description: Phd student in RUC
 role: algorithm developer
 aliases:
   - K.Yang
@@ -12,4 +12,4 @@ links:
 ---
 
 Kaixing.Tang is currently an algorithm developer of Zhaoxin team.
-He studies his Phd degree at Renmin University of China.
+He is Phd student at Renmin University of China.
