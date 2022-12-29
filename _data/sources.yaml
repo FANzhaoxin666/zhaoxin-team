@@ -11,7 +11,39 @@
   extra-links:
     - type: source
       link: https://ieeexplore.ieee.org/abstract/document/9897919
-
+      
+- id: doi:10.48550/arXiv.2105.00149
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  date: 2021-12-31
+  extra-links:
+    - type: source
+      link: https://www.aaai.org/AAAI22Papers/AAAI-1584.FanZ.pdf.pdf
+  tags: AAAI 2022, SLAM
+  
+- id: doi:10.1145/3524496
+  extra-links:
+    - type: source
+      link: https://dl.acm.org/doi/abs/10.1145/3524496
+  tags: object pose detection
+  
+- id: doi:10.1109/ICASSP39728.2021.9414867
+  extra-links:
+    - type: source
+      link: https://ieeexplore.ieee.org/abstract/document/9414867
+  tags: missing part detection, point cloud
+  
+- id: doi:10.48550/arXiv.2108.12790
+  extra-links:
+    - type: source
+      link: https://arxiv.org/abs/2108.12790v2
+  tags: Place Recognition, point cloud
+  
+- id: doi:10.1109/ICTAI50040.2020.00172
+  extra-links:
+    - type: source
+      link: https://ieeexplore.ieee.org/abstract/document/9288277
+  tags: 3D detection
+  
 - id: doi:10.7554/eLife.32822
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   extra-links:
