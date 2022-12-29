@@ -1,14 +1,14 @@
 ---
-name: Zhi Song
-image: images/songzhi.png
-description: undergraduate in CUPB
+name: Tianyu Ma
+image: images/matianyu.png
+description: undergraduate in PKU
 aliases:
-  - Z.Song
+  - T.Ma
 links:
   home-page: 
   email: 
   github: 
 ---
 
-Zhi.Song is currently an algorithm developer of Zhaoxin team.
-He studies his bachelor degree at CUPB.
+Tianyu.Ma is currently an algorithm developer of Zhaoxin team.
+He studies undergraduate at PKU.
