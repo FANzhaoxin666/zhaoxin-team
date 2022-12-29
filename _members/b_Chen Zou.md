@@ -1,7 +1,7 @@
 ---
 name: Chen Zou
 image: images/zouchen.png
-description: Phd in BUPT
+description: Phd student in BUPT
 role: algorithm developer
 aliases:
   - C. Zou
@@ -13,4 +13,4 @@ links:
 ---
 
 Zou is a Phd student working as algorithm researcher in Zhaoxin Team.
-He studies at BUPT in China.
+He is Phd student at BUPT in China.
