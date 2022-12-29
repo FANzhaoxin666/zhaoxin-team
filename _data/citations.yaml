@@ -224,12 +224,12 @@
   publisher: arXiv
   date: '2022-01-01'
   link: https://doi.org/grj6j9
-  image: images/FuPRE.png
+  image: images/FuRPE.png
   extra-links:
   - type: source
     link: https://arxiv.org/abs/2212.00731
   tags: body reconstruction
-  _cache: 328f756fd20dacf99258f727c693bf409bb00c81db90eb1d587b3be1fe229ba8
+  _cache: 2a9d42f7e19ebf9d0586360d24b512cd860b66ae6cc206a61354e53cbfab9444
 - id: doi:10.48550/arXiv.2209.11488
   title: 'GIDP: Learning a Good Initialization and Inducing Descriptor Post-enhancing
     for Large-scale Place Recognition'
@@ -294,12 +294,12 @@
   publisher: arXiv
   date: '2022-01-01'
   link: https://doi.org/grj7ms
-  image: images/minosim.png
+  image: images/monosim.png
   extra-links:
   - type: source
     link: https://arxiv.org/abs/2208.09446
   tags: 3D object detection, point cloud
-  _cache: 0025eb970af0fd8b000a3633175b709c9c5e86e359cce92629497fc07f6d4413
+  _cache: e420c69ac1c15b86548adade7502fc166cc034b5fc6762e4298272416c054a2c
 - id: doi:10.1007/978-3-030-58586-0_1
   title: Deep Novel View Synthesis from Colored 3D Point Clouds
   authors:
