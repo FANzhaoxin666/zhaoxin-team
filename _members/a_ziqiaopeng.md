@@ -1,7 +1,7 @@
 ---
 name: Ziqiao Peng
 image: images/ziqiaopeng.png
-description: Phd in RUC
+description: Phd student in RUC
 role: algorithm developer
 aliases:
   - Z.Peng
@@ -12,4 +12,4 @@ links:
 ---
 
 Ziqiao.Peng is currently an algorithm developer of Zhaoxin team.
-He studies his Phd at RENMIN UNIVERSITY of CHINA.
+He is Phd student at RENMIN UNIVERSITY of CHINA.
