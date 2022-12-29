@@ -1,5 +1,5 @@
 ---
-name: Pang Wang
+name: Pan Wang
 image: images/wangpgn.png
 description: Phd in Pitt
 role: algorithm developer
@@ -11,5 +11,5 @@ links:
   github: 
 ---
 
-Wang.Pan is currently an algorithm developer of Zhaoxin team.
+Pan.Wang is currently an algorithm developer of Zhaoxin team.
 He studies his Phd degree at University of Pittsburgh.
