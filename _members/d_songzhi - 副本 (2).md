@@ -1,15 +1,15 @@
 ---
-name: Tianyu Ma
-image: images/matianyu.png
+name: Tianyu Zhang
+image: images/zhangtianyu.png
 description: undergraduate in PKU
 role: algorithm developer
 aliases:
-  - T.Ma
+  - T.Zhang
 links:
   home-page: 
   email: 
   github: 
 ---
 
-Tianyu.Ma is currently an algorithm developer of Zhaoxin team.
+Tianyu.Zhang is currently an algorithm developer of Zhaoxin team.
 He studies undergraduate at PKU.
