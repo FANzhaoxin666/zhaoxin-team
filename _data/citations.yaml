@@ -74,12 +74,12 @@
   publisher: ACM Computing Surveys
   date: '2022-11-21'
   link: https://doi.org/grj6hx
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  image: images/acm.png
   extra-links:
   - type: source
     link: https://dl.acm.org/doi/abs/10.1145/3524496
   tags: object pose detection
-  _cache: 66aa76353a284f237360e0dac69faa34cb120870e36d28d74824123dc9c7f95e
+  _cache: 1f45e9b9364fe70734f4d4def772fbc76b4d4814bb07b6b58ae797738f703c77
 - id: doi:10.1109/ICASSP39728.2021.9414867
   title: 'MPDNet: A 3D Missing Part Detection Network Based on Point Cloud Segmentation'
   authors:
