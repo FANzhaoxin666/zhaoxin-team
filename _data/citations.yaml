@@ -37,11 +37,11 @@
   publisher: 2022 IEEE International Conference on Image Processing (ICIP)
   date: '2022-10-16'
   link: https://doi.org/grj39z
-  image: images/banner.jpg
+  image: images/UML.png
   extra-links:
   - type: source
     link: https://ieeexplore.ieee.org/abstract/document/9897919
-  _cache: d9474cf216b5ff0abaf5d35f3cfababff05e18a4515b2ee508227480413ec270
+  _cache: da6a2a0b3391098339649ae5a1abd64e486ad441e0e535c5d0e510749008e13d
 - id: doi:10.48550/arXiv.2105.00149
   title: 'SVT-Net: Super Light-Weight Sparse Voxel Transformer for Large Scale Place
     Recognition'
@@ -224,12 +224,12 @@
   publisher: arXiv
   date: '2022-01-01'
   link: https://doi.org/grj6j9
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  image: images/FuPRE.png
   extra-links:
   - type: source
     link: https://arxiv.org/abs/2212.00731
   tags: body reconstruction
-  _cache: b6dcd7951251afe0b63cfd71fdb0225ec5d878a62be49538fbb2c2f4efa6ee76
+  _cache: 328f756fd20dacf99258f727c693bf409bb00c81db90eb1d587b3be1fe229ba8
 - id: doi:10.48550/arXiv.2209.11488
   title: 'GIDP: Learning a Good Initialization and Inducing Descriptor Post-enhancing
     for Large-scale Place Recognition'
@@ -241,12 +241,12 @@
   publisher: arXiv
   date: '2022-01-01'
   link: https://doi.org/grj6kb
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  image: images/GIDP.png
   extra-links:
   - type: source
     link: https://arxiv.org/abs/2209.11488
   tags: Place Recognition
-  _cache: c950ca5f4b3c0d4dcf3f6a761c9013178cde6d292399fd49cb6f35d0c3a2eecf
+  _cache: cf7b6dfb243bf23639a1cd3f7e604688f5e47f999c1811f81728203059bbd7d5
 - id: doi:10.1007/978-3-031-18913-5_14
   title: "PilotAttnNet: Multi-modal Attention Network for\_End-to-End Steering Control"
   authors:
