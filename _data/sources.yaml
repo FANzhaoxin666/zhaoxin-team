@@ -1,6 +1,6 @@
 - id: doi:10.48550/arXiv.2204.01586
   image: images/OLDR.png
-  date: 2022-08-28
+  date: '2022-08-28'
   extra-links:
     - type: source
       link: https://arxiv.org/abs/2204.01586
@@ -14,7 +14,7 @@
       
 - id: doi:10.48550/arXiv.2105.00149
   image: images/svnet.png
-  date: 2021-12-31
+  date: '2021-12-31'
   extra-links:
     - type: source
       link: https://www.aaai.org/AAAI22Papers/AAAI-1584.FanZ.pdf.pdf
@@ -36,6 +36,7 @@
   
 - id: doi:10.48550/arXiv.2108.12790
   image: images/rprnet.png
+  date: '2022-11-28'
   extra-links:
     - type: source
       link: https://arxiv.org/abs/2108.12790v2
