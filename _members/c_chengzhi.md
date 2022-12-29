@@ -1,7 +1,7 @@
 ---
 name: Chengzhi Cao
 image: images/chengzhi cao.png
-description: master student in USTC
+description: master in USTC
 role: algorithm developer
 aliases:
   - C.Cao
