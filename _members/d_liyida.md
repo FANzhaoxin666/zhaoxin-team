@@ -12,4 +12,4 @@ links:
 ---
 
 Yida.Li is currently an algorithm developer of Zhaoxin team.
-He studies his bachelor degree at CUPB.
+He is an undergraduate student in CUPB.
