@@ -1,7 +1,8 @@
 ---
 name: Yida Li
 image: images/liyida.png
-description: undergraduate in CUP
+description: undergraduate in CUPB
+role: algorithm developer
 aliases:
   - Y.Li
 links:
