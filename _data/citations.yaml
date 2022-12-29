@@ -15,12 +15,12 @@
   publisher: arXiv
   date: ''
   link: https://doi.org/grj39x
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  image: images/OLDR.png
   extra-links:
   - type: source
     link: https://arxiv.org/abs/2204.01586
   tags: ECCV-2022, 6D pose estimation
-  _cache: 25939cb7846f61eff14c4ff379fd242ce8557b5d7411d384ca8d9c25d7e3fb45
+  _cache: b7c3cfc47a015d2dc1c9c17c3d66b7abe05d074c1b81af7e79e129421826fa55
 - id: doi:10.1109/ICIP46576.2022.9897919
   title: Unsupervised Multi-Task Learning for 3D Subtomogram Image Alignment, Clustering
     and Segmentation
@@ -55,12 +55,12 @@
   publisher: arXiv
   date: ''
   link: https://doi.org/grj6hv
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  image: images/svnet.png
   extra-links:
   - type: source
     link: https://www.aaai.org/AAAI22Papers/AAAI-1584.FanZ.pdf.pdf
   tags: AAAI 2022, SLAM
-  _cache: c6b30651a791a942e93ff80b3b26ee3a6363bd587a4011eaf37b800de14188e9
+  _cache: 6b4789d53a7de4128365f19961a08f7a06ae55e9616e6f195048a00524cf37a3
 - id: doi:10.1145/3524496
   title: 'Deep Learning on Monocular Object Pose Detection and Tracking: A Comprehensive
     Overview'
@@ -111,12 +111,12 @@
   publisher: arXiv
   date: '2021-01-01'
   link: https://doi.org/grj6h2
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  image: images/rprnet.png
   extra-links:
   - type: source
     link: https://arxiv.org/abs/2108.12790v2
   tags: Place Recognition, point cloud
-  _cache: 52517e0dce6590636f7defdf20f3878e86e6bcfedb88e6b97057e2fe0ab8f397
+  _cache: ec6950d65f66c8c4179f371aa057cab215b4eb2ea4f368e89e39e1ced3a1991d
 - id: doi:10.1109/ICTAI50040.2020.00172
   title: 'PointFPN: A Frustum-based Feature Pyramid Network for 3D Object Detection'
   authors:
