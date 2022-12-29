@@ -91,3 +91,25 @@
       link: https://arxiv.org/abs/2209.11488
   tags: Place Recognition
  
+- id: doi:10.1007/978-3-031-18913-5_14
+  image: https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-18913-5?as=webp
+  extra-links:
+    - type: source
+      link: https://link.springer.com/chapter/10.1007/978-3-031-18913-5_14
+  tags: attention
+
+- id: doi:10.1111/cgf.14147
+  image: https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-18913-5?as=webp
+  extra-links:
+    - type: source
+      link: https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14147
+  tags: point cloud
+  
+- id: doi:10.48550/arXiv.2208.09446
+  image: https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-18913-5?as=webp
+  extra-links:
+    - type: source
+      link: https://arxiv.org/abs/2208.09446
+  tags: 3D object detection, point cloud
+
+ 
