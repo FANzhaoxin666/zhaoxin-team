@@ -12,4 +12,4 @@ links:
 ---
 
 Zixin.Tang is currently an algorithm developer of Zhaoxin team.
-She studies her bachelor degree at NJUPT.
+She is an undergraduate student in NJUPT.
