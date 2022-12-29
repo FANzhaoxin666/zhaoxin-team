@@ -12,4 +12,4 @@ links:
 ---
 
 Manyu. Li is currently an algorithm developer of Zhaoxin team.
-He studies his bachelor degree at Nanchang University in China.
+He is an undergraduate student in Nanchang University in China.
