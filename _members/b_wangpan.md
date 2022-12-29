@@ -1,7 +1,7 @@
 ---
 name: Pan Wang
 image: images/wangpgn.png
-description: Phd in Pitt
+description: Phd student in Pitt
 role: algorithm developer
 aliases:
   - P.Wang
@@ -12,4 +12,4 @@ links:
 ---
 
 Pan.Wang is currently an algorithm developer of Zhaoxin team.
-He studies his Phd degree at University of Pittsburgh.
+He is a Phd student at University of Pittsburgh.
