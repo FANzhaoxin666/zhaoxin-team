@@ -129,12 +129,12 @@
     (ICTAI)
   date: '2020-11-01'
   link: https://doi.org/grj6h3
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  image: images/banner.jpg
   extra-links:
   - type: source
     link: https://ieeexplore.ieee.org/abstract/document/9288277
   tags: 3D detection
-  _cache: 9993e68b676f39c7cbad7f95e95bf6712cd4872b9c3f82bb2b1f619e19939e4a
+  _cache: 24d353d7bc0fbcad6f5d3bd42dd48befe64ee3474f81969529f4f1ecfda379e2
 - id: doi:10.1111/cgf.14146
   title: 'SRNet: A 3D Scene Recognition Network using Static Graph and Dense Semantic
     Fusion'
