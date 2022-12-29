@@ -12,4 +12,4 @@ links:
 ---
 
 Puquan.Pan is currently an algorithm developer of Zhaoxin team.
-He studies his bachelor degree at SCUT.
+He is an undergraduate student in SCUT.
