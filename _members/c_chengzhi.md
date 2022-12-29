@@ -1,7 +1,7 @@
 ---
 name: Chengzhi Cao
 image: images/chengzhi cao.png
-description: master in USTC
+description: master student in USTC
 role: algorithm developer
 aliases:
   - C.Cao
@@ -12,4 +12,4 @@ links:
 ---
 
 Chengzhi.Cao is currently an algorithm developer of Zhaoxin team.
-He studies his master degree at University of Science and Technology of China.
+He studies postgraduate at University of Science and Technology of China.
