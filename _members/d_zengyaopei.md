@@ -4,12 +4,12 @@ image: images/zneg yaopei.png
 description: undergraduate in HUST
 role: algorithm developer
 aliases:
-  - C.Lu
+  - Y.Zeng
 links:
-  home-page: louey233.github.io
+  home-page: 
   email: 
   github: 
 ---
 
 Yaopei. Zeng is currently an algorithm developer of Zhaoxin team.
-He studies his bachelor degree at Huazhong University of Science and Technology in China.
+He is an undergraduate student at Huazhong University of Science and Technology in China.
