@@ -294,9 +294,9 @@
   publisher: arXiv
   date: '2022-01-01'
   link: https://doi.org/grj7ms
-  image: https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-18913-5?as=webp
+  image: images/minosim.png
   extra-links:
   - type: source
     link: https://arxiv.org/abs/2208.09446
   tags: 3D object detection, point cloud
-  _cache: afe1b2c37678408b907ec359b31e8701bb4ddc192d0661b028dd16c572379942
+  _cache: 0025eb970af0fd8b000a3633175b709c9c5e86e359cce92629497fc07f6d4413
