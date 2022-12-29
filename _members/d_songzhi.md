@@ -2,6 +2,7 @@
 name: Zhi Song
 image: images/songzhi.png
 description: undergraduate in CUPB
+role: algorithm developer
 aliases:
   - Z.Song
 links:
