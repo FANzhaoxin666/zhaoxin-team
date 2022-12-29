@@ -1,7 +1,7 @@
 ---
 name: Zixin Tang
 image: images/tangzixin.png
-description: bachelor in NJUPT
+description: undergrduate in NJUPT
 role: algorithm developer
 aliases:
   - Z. Tang
