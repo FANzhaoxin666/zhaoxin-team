@@ -7,7 +7,7 @@
   tags: ECCV-2022, 6D pose estimation
 
 - id: doi:10.1109/ICIP46576.2022.9897919
-  image: images/banner.jpg
+  image: images/UML.png
   extra-links:
     - type: source
       link: https://ieeexplore.ieee.org/abstract/document/9897919
@@ -78,14 +78,14 @@
   tags: Height Limit Estimation
   
 - id: doi:10.48550/arXiv.2212.00731
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  image: images/FuPRE.png
   extra-links:
     - type: source
       link: https://arxiv.org/abs/2212.00731
   tags: body reconstruction
   
 - id: doi:10.48550/arXiv.2209.11488
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  image: images/GIDP.png
   extra-links:
     - type: source
       link: https://arxiv.org/abs/2209.11488
