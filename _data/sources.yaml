@@ -111,5 +111,24 @@
     - type: source
       link: https://arxiv.org/abs/2208.09446
   tags: 3D object detection, point cloud
+  
+- id: doi:10.1007/978-3-030-58586-0_1
+  image: images/DNVS.png
+  extra-links:
+    - type: source
+      link: https://link.springer.com/chapter/10.1007/978-3-030-58586-0_1
+  tags: point cloud, ECCV 2020
 
- 
+- id: doi:10.1109/ICRA40945.2020.9197557
+  image: images/ELIV.png
+  extra-links:
+    - type: source
+      link: https://ieeexplore.ieee.org/abstract/document/9197557
+  tags: automatic driving
+  
+ - id: doi:10.1109/TITS.2021.3106055
+  image: images/SSDC.png
+  extra-links:
+    - type: source
+      link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9525167
+  tags: automatic driving
