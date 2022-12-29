@@ -1,7 +1,7 @@
 ---
 name: Hui Ji
 image: images/jihui.png
-description: undergraduate in HUST
+description: bachelor in HUST
 role: algorithm developer
 aliases:
   - H. Ji
@@ -11,4 +11,4 @@ links:
 ---
 
 Hui Ji is an algorithm developer in Zhaoxin team.
-She is an undergraduate student in HUST in China.
+She receives her bachelor degree from HUST in China.
