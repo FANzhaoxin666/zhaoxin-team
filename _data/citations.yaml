@@ -247,3 +247,56 @@
     link: https://arxiv.org/abs/2209.11488
   tags: Place Recognition
   _cache: c950ca5f4b3c0d4dcf3f6a761c9013178cde6d292399fd49cb6f35d0c3a2eecf
+- id: doi:10.1007/978-3-031-18913-5_14
+  title: "PilotAttnNet: Multi-modal Attention Network for\_End-to-End Steering Control"
+  authors:
+  - Jincan Zhang
+  - Zhenbo Song
+  - Jianfeng Lu
+  - Xingwei Qu
+  - Zhaoxin Fan
+  publisher: Pattern Recognition and Computer Vision
+  date: '2022-01-01'
+  link: https://doi.org/grj7mr
+  image: https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-18913-5?as=webp
+  extra-links:
+  - type: source
+    link: https://link.springer.com/chapter/10.1007/978-3-031-18913-5_14
+  tags: attention
+  _cache: 7aef1b4a7d15be89e1af27c12715d9e622970c2902b7270d8098b55d38157a27
+- id: doi:10.1111/cgf.14147
+  title: "A Graph\u2010based One\u2010Shot Learning Method for Point Cloud Recognition"
+  authors:
+  - Zhaoxin Fan
+  - Hongyan Liu
+  - Jun He
+  - Qi Sun
+  - Xiaoyong Du
+  publisher: Computer Graphics Forum
+  date: '2020-10-01'
+  link: https://doi.org/gnd48p
+  image: https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-18913-5?as=webp
+  extra-links:
+  - type: source
+    link: https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14147
+  tags: point cloud
+  _cache: 92678a4a63a7cc715e0bd5ed8e3f0a28e99d46b04fc6864279db1a154e06cbe2
+- id: doi:10.48550/arXiv.2208.09446
+  title: 'MonoSIM: Simulating Learning Behaviors of Heterogeneous Point Cloud Object
+    Detectors for Monocular 3D Object Detection'
+  authors:
+  - Han Sun
+  - Zhaoxin Fan
+  - Zhenbo Song
+  - Zhicheng Wang
+  - Kejian Wu
+  - Jianfeng Lu
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/grj7ms
+  image: https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-18913-5?as=webp
+  extra-links:
+  - type: source
+    link: https://arxiv.org/abs/2208.09446
+  tags: 3D object detection, point cloud
+  _cache: afe1b2c37678408b907ec359b31e8701bb4ddc192d0661b028dd16c572379942
