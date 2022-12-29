@@ -1,7 +1,7 @@
 ---
 name: Jing Li
 image: images/lijing.png
-description: master in UCAS
+description: master student in UCAS
 role: algorithm developer
 aliases:
   - J. Li
@@ -12,4 +12,4 @@ links:
 ---
 
 Jing.Li is currently an algorithm developer of Zhaoxin team.
-He studies his master degree at UCAS.
+He studies his postgraduate at UCAS.
