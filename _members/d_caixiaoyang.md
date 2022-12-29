@@ -12,4 +12,4 @@ links:
 ---
 
 Xiaoyang. Cai is currently an algorithm developer of Zhaoxin team.
-He studies his bachelor degree at UIUC.
+He is an undergraduate student at UIUC.
