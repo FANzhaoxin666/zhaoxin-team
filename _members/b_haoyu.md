@@ -1,7 +1,7 @@
 ---
 name: Hao Xu
 image: images/haoyu.jpg
-description: Phd in HKUST
+description: Phd student in HKUST
 role: director
 aliases:
   - H.Xu
@@ -12,4 +12,4 @@ links:
 ---
 
 Hao.Xu is currently the director of Zhaoxin team.
-He works as Phd at HKUST.
+He is Phd student at HKUST.
