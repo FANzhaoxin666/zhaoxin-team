@@ -12,4 +12,4 @@ links:
 ---
 
 Xinyang. Han is currently an algorithm developer of Zhaoxin team.
-He studies his bachelor degree at UCAS in China.
+He is an undergraduate student in UCAS in China.
