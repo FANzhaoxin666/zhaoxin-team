@@ -12,4 +12,4 @@ links:
 ---
 
 Zhi.Song is currently an algorithm developer of Zhaoxin team.
-He studies his bachelor degree at CUPB.
+He is an undergraduate student at CUPB.
