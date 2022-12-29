@@ -67,4 +67,4 @@ Coming soon ...
 - Zixiao Xing: CMU master, now in PetroChina
 - Bowen Wei: now in The University of Virginia
 - Qianxi Xu: now in Nanyang Technological University (bachelor)
-- Jianyin Sun: now in Shanghai Jiaotong University
+- Jiayin Sun: now in Shanghai Jiaotong University
