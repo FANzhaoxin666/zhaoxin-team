@@ -1,7 +1,7 @@
 ---
 name: Xiaoyu Cao
 image: images/xiaoyucao.png
-description: undergraduate in NUC
+description: undergraduate in BUPT
 role: algorithm developer
 aliases:
   - X.Cao
@@ -12,4 +12,4 @@ links:
 ---
 
 Xiaoyu. Cao is currently an algorithm developer of Zhaoxin team.
-She studies her bachelor degree at Nanchang University in China.
+She studies her bachelor degree at Beijing University of Posts and Telecommunications.
