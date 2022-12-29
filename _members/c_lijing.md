@@ -1,7 +1,7 @@
 ---
 name: Jing Li
 image: images/lijing.png
-description: master student in UCAS
+description: master in UCAS
 role: algorithm developer
 aliases:
   - J. Li
