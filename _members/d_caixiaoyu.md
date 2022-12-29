@@ -12,4 +12,4 @@ links:
 ---
 
 Xiaoyu. Cao is currently an algorithm developer of Zhaoxin team.
-She studies her bachelor degree at Beijing University of Posts and Telecommunications.
+She is an undergraduate student at Beijing University of Posts and Telecommunications.
