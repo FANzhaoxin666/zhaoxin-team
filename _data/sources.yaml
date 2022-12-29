@@ -48,16 +48,45 @@
       link: https://ieeexplore.ieee.org/abstract/document/9288277
   tags: 3D detection
   
-- id: doi:10.7554/eLife.32822
+- id: doi:10.1111/cgf.14146
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   extra-links:
-    - type: preprint
-      link: https://doi.org/10.7287/peerj.preprints.3100v1
-    - type: manubot
-      link: https://greenelab.github.io/scihub-manuscript/
     - type: source
-      link: https://github.com/greenelab/scihub-manuscript
-      text: Manuscript source
+      link: https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14146
+  tags: 3D scene recognition
+  
+- id: doi:10.48550/arXiv.2111.10524
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  extra-links:
     - type: source
-      link: https://github.com/greenelab/scihub
-      text: Analyses source
+      link: https://arxiv.org/abs/2111.10524
+  tags: Representation Reconstruction, 6D Object Pose Estimation
+  
+- id: doi:10.48550/arXiv.2204.09186
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  extra-links:
+    - type: source
+      link: https://arxiv.org/abs/2204.09186
+  tags: point cloud
+  
+- id: doi:10.48550/arXiv.2212.11538
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  extra-links:
+    - type: source
+      link: https://arxiv.org/abs/2212.11538
+  tags: Height Limit Estimation
+  
+- id: doi:10.48550/arXiv.2212.00731
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  extra-links:
+    - type: source
+      link: https://arxiv.org/abs/2212.00731
+  tags: body reconstruction
+  
+- id: doi:10.48550/arXiv.2209.11488
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  extra-links:
+    - type: source
+      link: https://arxiv.org/abs/2209.11488
+  tags: Place Recognition
+ 
