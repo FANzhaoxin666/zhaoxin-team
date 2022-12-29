@@ -12,4 +12,4 @@ links:
 ---
 
 Pan.Wang is currently an algorithm developer of Zhaoxin team.
-He is a Phd student at University of Pittsburgh, and deeply cooperates with Zhaoxin team
+He is a Phd student at University of Pittsburgh, and deeply collaborates with Zhaoxin team
