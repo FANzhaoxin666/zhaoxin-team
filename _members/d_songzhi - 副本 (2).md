@@ -12,4 +12,4 @@ links:
 ---
 
 Tianyu.Zhang is currently an algorithm developer of Zhaoxin team.
-He studies undergraduate at PKU.
+He is an undergraduate student in PKU.
