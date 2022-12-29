@@ -7,7 +7,7 @@
   tags: ECCV-2022, 6D pose estimation
 
 - id: doi:10.1109/ICIP46576.2022.9897919
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  image: images/banner.jpg
   extra-links:
     - type: source
       link: https://ieeexplore.ieee.org/abstract/document/9897919
