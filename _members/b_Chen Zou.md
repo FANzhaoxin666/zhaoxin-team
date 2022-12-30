@@ -12,5 +12,5 @@ links:
   twitter: 
 ---
 
-Zou is a Phd student working as algorithm researcher in Zhaoxin Team.
+Chen. Zou is currently an algorithm developer in Zhaoxin Team.
 He is Phd student at BUPT in China.
