@@ -17,7 +17,7 @@ The 3DVG lab brings together interdisciplinary expertise and cutting-edge AI to 
 # Highlights
 
 {% capture text %}
-Our research mainly aims at exploring state-of-art method for 3D avatar, medicial image analysis and augmented reality. We have obtained great achievement by publishing papers at top conferences and creating high quality ML system in real industry.
+The 3DVG lab specializes in cutting-edge research at the intersection of 3D vision, virtual humans, and medical imaging. Our work aims to push the frontiers of avatar modeling, image analysis, and augmented reality through innovative methodologies and applications.
 
 {%
   include link.html

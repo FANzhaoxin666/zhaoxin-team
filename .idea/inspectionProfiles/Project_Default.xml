@@ -1,0 +1,168 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="275" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="HttpUrlsUsage" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredUrls">
+        <list>
+          <option value="http://localhost" />
+          <option value="http://127.0.0.1" />
+          <option value="http://0.0.0.0" />
+          <option value="http://www.w3.org/" />
+          <option value="http://json-schema.org/draft" />
+          <option value="http://java.sun.com/" />
+          <option value="http://xmlns.jcp.org/" />
+          <option value="http://javafx.com/javafx/" />
+          <option value="http://javafx.com/fxml" />
+          <option value="http://maven.apache.org/xsd/" />
+          <option value="http://maven.apache.org/POM/" />
+          <option value="http://www.springframework.org/schema/" />
+          <option value="http://www.springframework.org/tags" />
+          <option value="http://www.springframework.org/security/tags" />
+          <option value="http://www.thymeleaf.org" />
+          <option value="http://www.jboss.org/j2ee/schema/" />
+          <option value="http://www.jboss.com/xml/ns/" />
+          <option value="http://www.ibm.com/webservices/xsd" />
+          <option value="http://activemq.apache.org/schema/" />
+          <option value="http://schema.cloudfoundry.org/spring/" />
+          <option value="http://schemas.xmlsoap.org/" />
+          <option value="http://cxf.apache.org/schemas/" />
+          <option value="http://primefaces.org/ui" />
+          <option value="http://tiles.apache.org/" />
+          <option value="http://www.tianqihoubao.com" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="85">
+            <item index="0" class="java.lang.String" itemvalue="tokenizers" />
+            <item index="1" class="java.lang.String" itemvalue="pytorch-lightning" />
+            <item index="2" class="java.lang.String" itemvalue="transformers" />
+            <item index="3" class="java.lang.String" itemvalue="torch" />
+            <item index="4" class="java.lang.String" itemvalue="tqdm" />
+            <item index="5" class="java.lang.String" itemvalue="fairseq" />
+            <item index="6" class="java.lang.String" itemvalue="nltk" />
+            <item index="7" class="java.lang.String" itemvalue="numpy" />
+            <item index="8" class="java.lang.String" itemvalue="sacrebleu" />
+            <item index="9" class="java.lang.String" itemvalue="fitlog" />
+            <item index="10" class="java.lang.String" itemvalue="faiss-cpu" />
+            <item index="11" class="java.lang.String" itemvalue="wget" />
+            <item index="12" class="java.lang.String" itemvalue="tensorflow" />
+            <item index="13" class="java.lang.String" itemvalue="tensorboard-plugin-wit" />
+            <item index="14" class="java.lang.String" itemvalue="protobuf" />
+            <item index="15" class="java.lang.String" itemvalue="tensorflow-estimator" />
+            <item index="16" class="java.lang.String" itemvalue="joblib" />
+            <item index="17" class="java.lang.String" itemvalue="huggingface-hub" />
+            <item index="18" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="19" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="20" class="java.lang.String" itemvalue="gast" />
+            <item index="21" class="java.lang.String" itemvalue="MarkupSafe" />
+            <item index="22" class="java.lang.String" itemvalue="srsly" />
+            <item index="23" class="java.lang.String" itemvalue="pyasn1-modules" />
+            <item index="24" class="java.lang.String" itemvalue="spacy" />
+            <item index="25" class="java.lang.String" itemvalue="filelock" />
+            <item index="26" class="java.lang.String" itemvalue="sentencepiece" />
+            <item index="27" class="java.lang.String" itemvalue="certifi" />
+            <item index="28" class="java.lang.String" itemvalue="astunparse" />
+            <item index="29" class="java.lang.String" itemvalue="keras" />
+            <item index="30" class="java.lang.String" itemvalue="pyparsing" />
+            <item index="31" class="java.lang.String" itemvalue="pydantic" />
+            <item index="32" class="java.lang.String" itemvalue="sacremoses" />
+            <item index="33" class="java.lang.String" itemvalue="wrapt" />
+            <item index="34" class="java.lang.String" itemvalue="pathy" />
+            <item index="35" class="java.lang.String" itemvalue="click" />
+            <item index="36" class="java.lang.String" itemvalue="catalogue" />
+            <item index="37" class="java.lang.String" itemvalue="omegaconf" />
+            <item index="38" class="java.lang.String" itemvalue="regex" />
+            <item index="39" class="java.lang.String" itemvalue="cymem" />
+            <item index="40" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="41" class="java.lang.String" itemvalue="charset-normalizer" />
+            <item index="42" class="java.lang.String" itemvalue="murmurhash" />
+            <item index="43" class="java.lang.String" itemvalue="jsonlines" />
+            <item index="44" class="java.lang.String" itemvalue="idna" />
+            <item index="45" class="java.lang.String" itemvalue="mkl-service" />
+            <item index="46" class="java.lang.String" itemvalue="wasabi" />
+            <item index="47" class="java.lang.String" itemvalue="brotlipy" />
+            <item index="48" class="java.lang.String" itemvalue="async-timeout" />
+            <item index="49" class="java.lang.String" itemvalue="spacy-loggers" />
+            <item index="50" class="java.lang.String" itemvalue="antlr4-python3-runtime" />
+            <item index="51" class="java.lang.String" itemvalue="spacy-legacy" />
+            <item index="52" class="java.lang.String" itemvalue="importlib-metadata" />
+            <item index="53" class="java.lang.String" itemvalue="Jinja2" />
+            <item index="54" class="java.lang.String" itemvalue="mkl-fft" />
+            <item index="55" class="java.lang.String" itemvalue="preshed" />
+            <item index="56" class="java.lang.String" itemvalue="requests-oauthlib" />
+            <item index="57" class="java.lang.String" itemvalue="tensorflow-hub" />
+            <item index="58" class="java.lang.String" itemvalue="smart-open" />
+            <item index="59" class="java.lang.String" itemvalue="blis" />
+            <item index="60" class="java.lang.String" itemvalue="urllib3" />
+            <item index="61" class="java.lang.String" itemvalue="blinker" />
+            <item index="62" class="java.lang.String" itemvalue="scipy" />
+            <item index="63" class="java.lang.String" itemvalue="typer" />
+            <item index="64" class="java.lang.String" itemvalue="astor" />
+            <item index="65" class="java.lang.String" itemvalue="packaging" />
+            <item index="66" class="java.lang.String" itemvalue="Hydra" />
+            <item index="67" class="java.lang.String" itemvalue="langcodes" />
+            <item index="68" class="java.lang.String" itemvalue="pandas" />
+            <item index="69" class="java.lang.String" itemvalue="termcolor" />
+            <item index="70" class="java.lang.String" itemvalue="importlib-resources" />
+            <item index="71" class="java.lang.String" itemvalue="hydra-core" />
+            <item index="72" class="java.lang.String" itemvalue="thinc" />
+            <item index="73" class="java.lang.String" itemvalue="pytz" />
+            <item index="74" class="java.lang.String" itemvalue="yacs" />
+            <item index="75" class="java.lang.String" itemvalue="json_tricks" />
+            <item index="76" class="java.lang.String" itemvalue="thop" />
+            <item index="77" class="java.lang.String" itemvalue="ninja" />
+            <item index="78" class="java.lang.String" itemvalue="colorama" />
+            <item index="79" class="java.lang.String" itemvalue="pymvg" />
+            <item index="80" class="java.lang.String" itemvalue="tensorboardX" />
+            <item index="81" class="java.lang.String" itemvalue="torchvision" />
+            <item index="82" class="java.lang.String" itemvalue="vtk" />
+            <item index="83" class="java.lang.String" itemvalue="ipyvolume" />
+            <item index="84" class="java.lang.String" itemvalue="prettytable" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E402" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N806" />
+          <option value="N801" />
+          <option value="N803" />
+          <option value="N812" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="start_label" />
+          <option value="end_label" />
+          <option value="compare_label" />
+          <option value="list.encode" />
+          <option value="list.add_special_tokens" />
+          <option value="bool.sum" />
+          <option value="threshold" />
+          <option value="bool.__setitem__" />
+          <option value="bool.long" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
