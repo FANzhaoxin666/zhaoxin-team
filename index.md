@@ -2,9 +2,15 @@
 title: Home
 ---
 
-# CMU Zhaoxin Team（杰森组）
+# 3DVG Lab
 
-Zhaoxin team is a research team consists of students and engineers from CMU, HKUST, Pyche.AI, etc. The director of Zhaoxin team is Jason Fan, who is now a scholar at Carnegie Mellon University. Our reseach interests include digital human, medical image processing, and augmented reality. Our goal is to build a metaverse to brige the gap between virtual and real.
+The 3DVG lab is a research group dedicated to advancing 3D vision, digital humans, and medical imaging. The lab consists of researchers and engineers from top institutions including Carnegie Mellon University, Hong Kong University of Science and Technology, and Pyche.AI.
+
+Led by Director Jason Fan, a scholar at Carnegie Mellon University, the 3DVG lab aims to build technologies and prototypes at the intersection of these three domains. Our research interests span digital human modeling, medical image processing, augmented and virtual reality.
+
+We aspire to create immersive hyper-realistic experiences and build a metaverse that blends the virtual and real worlds. By developing intelligent systems that understand 3D vision, human dynamics, anatomy and physiology, we hope to transform healthcare, industry, education and beyond.
+
+The 3DVG lab brings together interdisciplinary expertise and cutting-edge AI to push the frontiers of 3D computer vision, medical imaging, and virtual human simulation. We are building the future of immersive technologies and spatial computing.
 
 
 
