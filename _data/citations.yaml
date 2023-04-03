@@ -19,7 +19,6 @@
   extra-links:
   - type: source
     link: https://arxiv.org/abs/2204.01586
-  tags: ECCV-2022, 6D pose estimation
   _cache: b7c3cfc47a015d2dc1c9c17c3d66b7abe05d074c1b81af7e79e129421826fa55
 - id: doi:10.1109/ICIP46576.2022.9897919
   title: Unsupervised Multi-Task Learning for 3D Subtomogram Image Alignment, Clustering
@@ -56,22 +55,6 @@
   image: images/TRRRAA.jpg
   extra-links:
   - type: source
-    link: https://arxiv.org/abs/2209.11488
-  _cache: 69bc74ffad8968d0553eb4b24d94cce97cb58bf83d9b63af195fe58455e8d0a2
-- id: doi:10.48550/arXiv.2208.00428
-  title: Robust Real-World Image Super-Resolution against Adversarial Attacks
-  authors:
-  - Jiutao Yue
-  - Haofeng Li
-  - Pengxu Wei
-  - Guanbin Li
-  - Liang Lin
-  publisher: arXiv
-  date: '2022-01-01'
-  link: https://doi.org/gr29jw
-  image: images/TRRRAA.jpg
-  extra-links:
-  - type: source
     link: https://ieeexplore.ieee.org/document/8868089
   _cache: aa140c19e985647c6c6cf7ab1f5b365995b662c20db7ae149ff68c3cc3623e0e
 - id: doi:10.48550/arXiv.2105.00149
@@ -91,7 +74,6 @@
   extra-links:
   - type: source
     link: https://www.aaai.org/AAAI22Papers/AAAI-1584.FanZ.pdf.pdf
-  tags: AAAI 2022, SLAM
   _cache: 6b4789d53a7de4128365f19961a08f7a06ae55e9616e6f195048a00524cf37a3
 - id: doi:10.1145/3524496
   title: 'Deep Learning on Monocular Object Pose Detection and Tracking: A Comprehensive
@@ -110,7 +92,6 @@
   extra-links:
   - type: source
     link: https://dl.acm.org/doi/abs/10.1145/3524496
-  tags: object pose detection
   _cache: 1f45e9b9364fe70734f4d4def772fbc76b4d4814bb07b6b58ae797738f703c77
 - id: doi:10.1109/ICASSP39728.2021.9414867
   title: 'MPDNet: A 3D Missing Part Detection Network Based on Point Cloud Segmentation'
@@ -128,7 +109,6 @@
   extra-links:
   - type: source
     link: https://ieeexplore.ieee.org/abstract/document/9414867
-  tags: missing part detection, point cloud
   _cache: 0d449d2f13e0112815eb70f1bd78f7c102624b8d7a78e83e5b8962d0493cc0ed
 - id: doi:10.48550/arXiv.2108.12790
   title: 'RPR-Net: A Point Cloud-based Rotation-aware Large Scale Place Recognition
@@ -140,14 +120,13 @@
   - Hongyan Liu
   - Jun He
   - Xiaoyong Du
-  publisher: arXiv
+  publisher: ECCV Workshop
   date: '2022-11-28'
   link: https://doi.org/grj6h2
   image: images/rprnet.png
   extra-links:
   - type: source
     link: https://arxiv.org/abs/2108.12790v2
-  tags: Place Recognition, point cloud
   _cache: a2ca38c38ed16d68ffc08bce2f6b08f008b4ee43654c660d624354e5fc816943
 - id: doi:10.1109/ICTAI50040.2020.00172
   title: 'PointFPN: A Frustum-based Feature Pyramid Network for 3D Object Detection'
@@ -165,7 +144,6 @@
   extra-links:
   - type: source
     link: https://ieeexplore.ieee.org/abstract/document/9288277
-  tags: 3D detection
   _cache: 24d353d7bc0fbcad6f5d3bd42dd48befe64ee3474f81969529f4f1ecfda379e2
 - id: doi:10.1111/cgf.14146
   title: 'SRNet: A 3D Scene Recognition Network using Static Graph and Dense Semantic
@@ -183,7 +161,6 @@
   extra-links:
   - type: source
     link: https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14146
-  tags: 3D scene recognition
   _cache: 9b4fe0e92c5e96ed38d33db89c6bdbc2f26e0c92c61cf8a2267d98df5d5caec5
 - id: doi:10.48550/arXiv.2111.10524
   title: 'ACR-Pose: Adversarial Canonical Representation Reconstruction Network for
@@ -203,7 +180,6 @@
   extra-links:
   - type: source
     link: https://arxiv.org/abs/2111.10524
-  tags: Representation Reconstruction, 6D Object Pose Estimation
   _cache: f96c56af7f026c84ec4dac95e883628f62d5af4aa5d4e0be9822456dd88a1858
 - id: doi:10.48550/arXiv.2204.09186
   title: Reconstruction-Aware Prior Distillation for Semi-supervised Point Cloud Completion
@@ -221,7 +197,6 @@
   extra-links:
   - type: source
     link: https://arxiv.org/abs/2204.09186
-  tags: point cloud
   _cache: 068a9193b369a0989a5589fc07ff2fb09e30017ae680f5afa880a808630f0275
 - id: doi:10.48550/arXiv.2212.11538
   title: 'SHLE: Devices Tracking and Depth Filtering for Stereo-based Height Limit
@@ -240,7 +215,6 @@
   extra-links:
   - type: source
     link: https://arxiv.org/abs/2212.11538
-  tags: Height Limit Estimation
   _cache: c096d17aba196bf10ca34aea38ad9dad90af1f6a40c3b60997d0fe2f15c50888
 - id: doi:10.48550/arXiv.2212.00731
   title: 'FuRPE: Learning Full-body Reconstruction from Part Experts'
@@ -260,7 +234,6 @@
   extra-links:
   - type: source
     link: https://arxiv.org/abs/2212.00731
-  tags: body reconstruction
   _cache: 2a9d42f7e19ebf9d0586360d24b512cd860b66ae6cc206a61354e53cbfab9444
 - id: doi:10.48550/arXiv.2209.11488
   title: 'GIDP: Learning a Good Initialization and Inducing Descriptor Post-enhancing
@@ -270,14 +243,13 @@
   - Zhenbo Song
   - Hongyan Liu
   - Jun He
-  publisher: arXiv
+  publisher: ICRA
   date: '2022-01-01'
   link: https://doi.org/grj6kb
   image: images/GIDP.png
   extra-links:
   - type: source
     link: https://arxiv.org/abs/2209.11488
-  tags: Place Recognition
   _cache: cf7b6dfb243bf23639a1cd3f7e604688f5e47f999c1811f81728203059bbd7d5
 - id: doi:10.1007/978-3-031-18913-5_14
   title: "PilotAttnNet: Multi-modal Attention Network for\_End-to-End Steering Control"
@@ -294,7 +266,6 @@
   extra-links:
   - type: source
     link: https://link.springer.com/chapter/10.1007/978-3-031-18913-5_14
-  tags: attention
   _cache: 7aef1b4a7d15be89e1af27c12715d9e622970c2902b7270d8098b55d38157a27
 - id: doi:10.1111/cgf.14147
   title: "A Graph\u2010based One\u2010Shot Learning Method for Point Cloud Recognition"
@@ -311,7 +282,6 @@
   extra-links:
   - type: source
     link: https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14147
-  tags: point cloud
   _cache: 92678a4a63a7cc715e0bd5ed8e3f0a28e99d46b04fc6864279db1a154e06cbe2
 - id: doi:10.48550/arXiv.2208.09446
   title: 'MonoSIM: Simulating Learning Behaviors of Heterogeneous Point Cloud Object
@@ -330,7 +300,6 @@
   extra-links:
   - type: source
     link: https://arxiv.org/abs/2208.09446
-  tags: 3D object detection, point cloud
   _cache: e420c69ac1c15b86548adade7502fc166cc034b5fc6762e4298272416c054a2c
 - id: doi:10.1007/978-3-030-58586-0_1
   title: Deep Novel View Synthesis from Colored 3D Point Clouds
@@ -346,7 +315,6 @@
   extra-links:
   - type: source
     link: https://link.springer.com/chapter/10.1007/978-3-030-58586-0_1
-  tags: point cloud, ECCV 2020
   _cache: b78037524fefd8b5c3a01b363250392a0646c7651814e9bde486b84ff6e1f415
 - id: doi:10.1109/ICRA40945.2020.9197557
   title: End-to-end Learning for Inter-Vehicle Distance and Relative Velocity Estimation
@@ -363,7 +331,6 @@
   extra-links:
   - type: source
     link: https://ieeexplore.ieee.org/abstract/document/9197557
-  tags: automatic driving
   _cache: e0772b9bed64665b15639def88956e6018c914b9179c0416223ddba6e93035dc
 - id: doi:10.1109/TITS.2021.3106055
   title: Self-Supervised Depth Completion From Direct Visual-LiDAR Odometry in Autonomous
@@ -380,5 +347,39 @@
   extra-links:
   - type: source
     link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9525167
-  tags: automatic driving
   _cache: 11a8bf449cd6ab29e9909b483ac252b22730bb8a57d3b097bb2249ed919813b6
+- id: doi:10.48550/arXiv.2303.11089
+  title: "EmoTalk: Speech-driven emotional disentanglement for 3D face animation"
+  authors:
+  - Ziqiao Peng
+  - Haoyu Wu
+  - Zhenbo Song
+  - Hao Xu
+  - Xiangyu Zhu
+  - Hongyan Liu
+  - Jun He
+  - Zhaoxin Fan
+  publisher: arxiv
+  date: '2023-03-20'
+  link: https://arxiv.org/abs/2303.11089
+  image: images/emo_talk.png
+  extra-links:
+  - type: source
+    link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9525167
+- id: doi:10.48550/arXiv.2303.11089
+  title: "Robust Single Image Reflection Removal Against Adversarial Attacks"
+  authors:
+  - Zhenbo Song
+  - Zhenyuan Zhang
+  - Kaihao Zhang
+  - Wenhan Luo
+  - Zhaoxin Fan
+  - Wenqi Ren
+  - Jianfen Lu
+  publisher: CVPR
+  date: '2023-03-20'
+  link: https://arxiv.org/pdf/
+  image: images/emo_talk.png
+  extra-links:
+  - type: source
+    link: https://arxiv.org/pdf/
