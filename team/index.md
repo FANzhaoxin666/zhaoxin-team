@@ -67,3 +67,18 @@ Coming soon ...
 - Bowen Wei: now in The University of Virginia
 - Qianxi Xu: now in Nanyang Technological University
 - Jiayin Sun: now in Shanghai Jiaotong University
+- Siyi Du: now in SCU
+- Yaopei Zeng: now in CUHK
+- Xinyang Han: now in UCAS
+- Zixin Tang: now in NJUPT
+- Puyuan Pan: now in SCUT
+- Zhi Song: now in CUPB
+- Tianyu Zhang: now in PKU
+- Jing Li: now in UCAS
+- Changjie Lu: now in WKU
+- Manyu Li: now in NCU
+- Xiaoyang Cai: now in UIUC
+- Yida Li: now in CUPB
+- Fan Shen: now in Pitt
+- Chengzhi Cao: now in USPTC
+- Lintong Han: now in GT

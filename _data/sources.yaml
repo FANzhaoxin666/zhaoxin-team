@@ -11,7 +11,19 @@
   extra-links:
     - type: source
       link: https://ieeexplore.ieee.org/abstract/document/9897919
-      
+
+- id: doi:10.48550/arXiv.2208.00428
+  image: images/TRRRAA.jpg
+  extra-links:
+    - type: source
+      link: https://arxiv.org/abs/2209.11488
+
+- id: doi:10.48550/arXiv.2208.00428
+  image: images/TRRRAA.jpg
+  extra-links:
+    - type: source
+      link: https://ieeexplore.ieee.org/document/8868089
+
 - id: doi:10.48550/arXiv.2105.00149
   image: images/svnet.png
   date: '2021-12-31'
