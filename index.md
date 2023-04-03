@@ -74,7 +74,7 @@ Our team members are all top students from top universities worldwide, aiming at
 
 {%
   include feature.html
-  image="images/team.png"
+  image="images/team.jpg"
   link="team"
   title="Our Team"
   text=text
