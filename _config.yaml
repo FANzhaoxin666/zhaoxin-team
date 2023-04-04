@@ -3,7 +3,7 @@
 # site properties and page defaults
 title: 3DVG Lab
 description: The official website of  3DVG Lab. A top computer science research group.
-logo: images/logo.svg
+logo: images/lab_logo.png
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: /zhaoxin-team
