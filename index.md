@@ -31,7 +31,7 @@ The 3DVG lab specializes in cutting-edge research at the intersection of 3D visi
 
 {%
   include feature.html
-  image="images/research.png"
+  image="images/member.png"
   link="research"
   title="Our Research"
   text=text

@@ -23,7 +23,7 @@ nav:
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-PAPittsburgh 5000 Forbes Ave, 15213
-USA
+Wework, 3rd Floor, Good World, Chaoyang District, Beijing
+China
 {:.center}
 
