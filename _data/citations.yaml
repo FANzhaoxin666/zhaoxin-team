@@ -41,22 +41,7 @@
   - type: source
     link: https://ieeexplore.ieee.org/abstract/document/9897919
   _cache: da6a2a0b3391098339649ae5a1abd64e486ad441e0e535c5d0e510749008e13d
-- id: doi:10.48550/arXiv.2208.00428
-  title: Robust Real-World Image Super-Resolution against Adversarial Attacks
-  authors:
-  - Jiutao Yue
-  - Haofeng Li
-  - Pengxu Wei
-  - Guanbin Li
-  - Liang Lin
-  publisher: arXiv
-  date: '2022-01-01'
-  link: https://doi.org/gr29jw
-  image: images/TRRRAA.jpg
-  extra-links:
-  - type: source
-    link: https://ieeexplore.ieee.org/document/8868089
-  _cache: aa140c19e985647c6c6cf7ab1f5b365995b662c20db7ae149ff68c3cc3623e0e
+
 - id: doi:10.48550/arXiv.2105.00149
   title: 'SVT-Net: Super Light-Weight Sparse Voxel Transformer for Large Scale Place
     Recognition'
@@ -211,7 +196,7 @@
   publisher: arXiv
   date: '2022-01-01'
   link: https://doi.org/grj6j8
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  image: images/Height.png
   extra-links:
   - type: source
     link: https://arxiv.org/abs/2212.11538
@@ -379,7 +364,7 @@
   publisher: CVPR
   date: '2023-03-20'
   link: https://arxiv.org/pdf/
-  image: images/emo_talk.png
+  image: images/lab_logo.png
   extra-links:
   - type: source
     link: https://arxiv.org/pdf/
